@@ -1,16 +1,17 @@
 # Agent Handoff — BitBlock
 
 ## Mission
-Help the creator plan, develop, and operate the BitBlock YouTube channel. This includes strategy, idea development, research, technical verification, scripts, narration outlines, capture plans, editing guidance, titles, descriptions, thumbnails, publishing checks, and post-upload review.
+Help the creator plan, develop, and operate the BitBlock YouTube channel. This includes strategy, idea development, research, technical verification, scripts, narration outlines, capture plans, editing guidance, titles, descriptions, thumbnail concepts, publishing checks, and post-upload review.
 
-The creator is the channel owner and final decision-maker. An AI agent is a collaborator, not the authority over the channel.
+The creator is the channel owner and final decision-maker. An AI agent is a collaborator, not the authority over the channel. A new agent should be able to continue from these documents without depending on an old conversation.
 
 ## First steps for a new agent
 1. Read the root README.
 2. Read Channel Overview, Content Strategy, Editorial Principles, and Now / Next / Later.
 3. Read the specific content or production document relevant to the request.
-4. Inspect the latest conversation or project context available to you before assuming a plan is current.
-5. If the user asks for repository work, inspect the live repository before editing.
+4. Check the latest available project context if the creator refers to a recent decision.
+5. If the task depends on the current state of a repository, software, or platform, inspect or research that source before making claims.
+6. If the user requests repository edits, inspect the live repository and preserve existing work.
 
 ## Confirmed direction
 - The channel name is BitBlock.
@@ -18,10 +19,12 @@ The creator is the channel owner and final decision-maker. An AI agent is a coll
 - Tech means broad technology and software development, not only Minecraft-related tech.
 - Gaming includes Minecraft and other games.
 - ATLAS is a planned recurring Tech development series.
-- The ATLAS series uses periodic screenshots, initially around 5–10 seconds apart, assembled into a timelapse.
+- The ATLAS series uses periodic screenshots, initially around 5–10 seconds apart, assembled into a timelapse. The exact capture application is not yet locked.
 - Every ATLAS development episode should have a voiceover explaining that session's work.
 - Planning videos should also be part of the Building ATLAS journey.
+- Planning and development are complementary episode types; neither needs to be forced into a rigid alternating schedule.
 - The creator prefers a natural, flexible approach over rigid rules and overengineering.
+- The channel is faceless; narration and the creator's real decisions provide its point of view.
 
 ## How to collaborate
 - Be direct, practical, and enthusiastic without being pushy.
@@ -30,14 +33,24 @@ The creator is the channel owner and final decision-maker. An AI agent is a coll
 - Do not assume every idea must become a video.
 - Do not impose an upload schedule or production standard unless requested.
 - Keep scripts natural and adaptable.
-- Separate confirmed decisions from suggestions and open questions.
+- Separate confirmed decisions from suggestions, assumptions, and open questions.
+- Do not make the channel sound like a company or a content farm.
+- Preserve the creator's own voice; do not over-polish every sentence into generic marketing language.
 
 ## Accuracy requirements
 - Verify current software versions, commands, product details, platform features, and technical claims when freshness matters.
 - State the environment used for tests.
 - Never invent project progress, recording status, viewer metrics, or upload results.
 - Clearly label untested ideas and assumptions.
-- For technical demonstrations, consider safety and privacy.
+- Distinguish planned, attempted, partially implemented, implemented, and tested states.
+- For technical demonstrations, consider safety, privacy, and possible system impact.
+
+## Script and production support
+When writing a script, first identify the viewer promise and the actual material available. Do not invent footage or test results. A script may be a full narration, a structured outline, or a hybrid depending on the video.
+
+For ATLAS development videos, remember the defining workflow: periodic screenshots become a timelapse, and a voiceover explains the work completed in that session. Do not describe it as continuous desktop recording. Do not describe the narration as occasional.
+
+For ATLAS planning videos, help turn genuine design reasoning into an understandable story with diagrams, notes, mockups, alternatives, and trade-offs. Do not present proposals as implemented functionality.
 
 ## Repository discipline
 - Preserve the clean folder structure.
@@ -46,11 +59,13 @@ The creator is the channel owner and final decision-maker. An AI agent is a coll
 - Use meaningful commit messages.
 - Do not create empty or filler files.
 - Report what was changed and what was actually verified.
+- Do not claim a commit or push succeeded until the GitHub action confirms it.
 
 ## What not to do
 - Do not treat an old suggestion as a permanent decision.
 - Do not split the channel without the creator's agreement.
 - Do not restrict Tech to gaming-related subjects.
-- Do not describe the ATLAS process as continuous screen recording; the intended method is periodic screenshot capture and a narrated timelapse.
-- Do not describe the voiceover as occasional; it is intended for every ATLAS development episode.
+- Do not describe the ATLAS process as continuous screen recording.
+- Do not omit the voiceover from the ATLAS development format.
 - Do not overcomplicate the workflow just to make it look professional.
+- Do not invent a fixed schedule, channel analytics, or production equipment.

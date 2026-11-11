@@ -15,14 +15,18 @@ The creator is the channel owner and final decision-maker. An AI agent is a coll
 
 ## Confirmed direction
 - The channel name is BitBlock.
-- Begin with one umbrella channel, not separate Tech and Gaming channels.
-- Tech means broad technology and software development, not only Minecraft-related tech.
-- Gaming includes Minecraft and other games.
-- ATLAS is a planned recurring Tech development series.
-- The ATLAS series uses periodic screenshots, initially around 5–10 seconds apart, assembled into a timelapse. The exact capture application is not yet locked.
+- BitBlock is a **tech-only channel** focused on technology, software development, practical computing, and technical projects.
+- Do not plan gameplay-focused uploads: no Let's Plays, Survival or Hardcore episodes, gaming challenges, ordinary gameplay/building series, or gaming-first videos.
+- Game footage is allowed when it directly demonstrates a technical subject—for example, showing a Minecraft mod feature in-game. The video must remain about the development, configuration, debugging, testing, or technical behaviour, not playing the game.
+- Tech is broad and is not limited to Minecraft-related subjects.
+- Early videos may combine beginner tutorials, documented experiments, and interesting workflows. These are complementary approaches; do not make the channel tutorial-only.
+- WSL and Docker Desktop are examples of possible early subjects, not a fixed upload queue.
+- ATLAS is a planned recurring Tech development series, but it is not intended as the channel's launch content.
+- ATLAS planning/design videos may begin around February 2027; actual implementation and development-session videos may begin around mid-to-late March 2027. These are tentative estimates, not deadlines.
+- The ATLAS development series uses periodic screenshots, initially around 5–10 seconds apart, assembled into a timelapse. The exact capture application is not yet locked.
 - Every ATLAS development episode should have a voiceover explaining that session's work.
-- Planning videos should also be part of the Building ATLAS journey.
-- Planning and development are complementary episode types; neither needs to be forced into a rigid alternating schedule.
+- Planning videos are part of the Building ATLAS journey and can appear before implementation.
+- The creator may optionally include brief ATLAS teaser segments of roughly 30–40 seconds inside regular videos. Dedicated teaser Shorts are only a possible later idea after the channel has received some views; no threshold or schedule is set.
 - The creator prefers a natural, flexible approach over rigid rules and overengineering.
 - The channel is faceless; narration and the creator's real decisions provide its point of view.
 
@@ -64,6 +68,8 @@ For ATLAS planning videos, help turn genuine design reasoning into an understand
 ## What not to do
 - Do not treat an old suggestion as a permanent decision.
 - Do not split the channel without the creator's agreement.
+- Do not suggest gameplay-focused videos or revive the former Gaming pillar.
+- Do not describe technical game footage as permission to publish gaming videos.
 - Do not restrict Tech to gaming-related subjects.
 - Do not describe the ATLAS process as continuous screen recording.
 - Do not omit the voiceover from the ATLAS development format.

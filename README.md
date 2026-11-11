@@ -2,14 +2,14 @@
 
 > **CODE. CREATE. EXPLORE.**
 
-BitBlock is a faceless, creator-led channel about technology, software development, gaming, and the curiosity that connects them. This repository is the durable source of truth for the channel's direction. It exists so the creator—or a future AI agent, collaborator, or tool—can continue the work without reconstructing decisions from old conversations.
+BitBlock is a faceless, creator-led **technology and software-development channel**. This repository is the durable source of truth for the channel's direction. It exists so the creator—or a future AI agent, collaborator, or tool—can continue the work without reconstructing decisions from old conversations.
 
 The creator owns the channel and makes final decisions. This plan is detailed enough to support continuity, but flexible enough to evolve as the channel develops.
 
 ## Start here
 
 1. **[Channel overview](docs/CHANNEL_OVERVIEW.md)** — purpose, identity, channel promise, and scope.
-2. **[Content strategy](docs/CONTENT_STRATEGY.md)** — how the Tech and Gaming worlds fit under one channel.
+2. **[Content strategy](docs/CONTENT_STRATEGY.md)** — technology scope and the boundary for technical game footage.
 3. **[Editorial principles](docs/EDITORIAL_PRINCIPLES.md)** — accuracy, tone, safety, and creative freedom.
 4. **[Agent handoff](planning/AGENT_HANDOFF.md)** — instructions for a future assistant taking over the project.
 5. **[Current priorities](planning/NOW_NEXT_LATER.md)** — what is active, upcoming, and deliberately deferred.
@@ -19,20 +19,20 @@ The creator owns the channel and makes final decisions. This plan is detailed en
 
 ### docs/ — Durable channel foundations
 - [Channel overview](docs/CHANNEL_OVERVIEW.md) — what BitBlock is and how it should feel.
-- [Content strategy](docs/CONTENT_STRATEGY.md) — broad Tech and Gaming coverage without prematurely splitting channels.
+- [Content strategy](docs/CONTENT_STRATEGY.md) — broad technology coverage and the technical-demonstration boundary.
 - [Audience](docs/AUDIENCE.md) — intended viewers and the value each video should provide.
 - [Editorial principles](docs/EDITORIAL_PRINCIPLES.md) — tone, honesty, technical depth, pacing, and creative freedom.
 - [Brand identity](docs/BRAND_IDENTITY.md) — name, tagline, visual direction, and identity rules.
-- [Channel architecture](docs/CHANNEL_ARCHITECTURE.md) — one channel now, possible sub-channels later.
+- [Channel architecture](docs/CHANNEL_ARCHITECTURE.md) — one technology-focused channel.
 - [Success signals](docs/SUCCESS_SIGNALS.md) — evaluating progress without obsessing over metrics.
 
 ### content/ — What BitBlock can publish
-- [Content pillars](content/CONTENT_PILLARS.md) — recurring subject areas and how to classify overlapping videos.
+- [Content pillars](content/CONTENT_PILLARS.md) — technical subjects and ways to approach them.
 - [BitBlock Tech](content/BITBLOCK_TECH.md) — broad technology coverage, not only Minecraft-adjacent technology.
-- [BitBlock Gaming](content/BITBLOCK_GAMING.md) — Minecraft and other gaming content.
-- [ATLAS series](content/ATLAS_SERIES.md) — the session-by-session development journey.
+- [Technical game demonstrations](content/TECHNICAL_GAME_DEMONSTRATIONS.md) — when and how game footage may support a technical video.
+- [ATLAS series](content/ATLAS_SERIES.md) — the planning and session-by-session development journey.
 - [Planning videos](content/PLANNING_VIDEOS.md) — design, architecture, trade-offs, and decisions.
-- [Video formats](content/VIDEO_FORMATS.md) — practical formats for a faceless, narrated channel.
+- [Video formats](content/VIDEO_FORMATS.md) — tutorials, experiments, workflows, and other technical formats.
 - [Idea backlog](content/IDEA_BACKLOG.md) — possible videos, not promises or a fixed schedule.
 
 ### production/ — How videos are made
@@ -52,13 +52,15 @@ The creator owns the channel and makes final decisions. This plan is detailed en
 
 ## Important decisions and direction
 
-- **One umbrella channel first:** publish under BitBlock rather than splitting into BitBlock Gaming and BitBlock Tech immediately.
-- **Two broad content worlds:** Tech includes general technology and development; Gaming includes Minecraft and other games.
-- **Tech is not Minecraft-dependent:** Linux, WSL, Docker, programming, software development, AI tools, automation, servers, self-hosting, networking, cybersecurity education, Windows/developer tools, hardware, and homelabs are all valid subjects.
-- **ATLAS is a flagship Tech series candidate:** document its real development journey, including planning, implementation, debugging, testing, and milestones.
-- **Planning videos belong in the ATLAS journey:** planning and development can be separate episode types within one series.
-- **Timelapse method:** capture periodic screenshots, initially testing intervals around 5–10 seconds, assemble them into a timelapse, and add a voiceover explaining the work in that session.
+- **Tech-only channel:** BitBlock focuses on technology, software development, practical computing, and technical projects. It does not publish gameplay-focused videos, Let's Plays, Survival or Hardcore episodes, gaming challenges, or gaming series.
+- **Game footage is supporting material only:** it may be used when directly demonstrating a technical subject, such as showing a Minecraft mod feature. The video must remain about development, configuration, debugging, testing, or technical behaviour—not playing the game.
+- **Broad Tech scope:** Linux, WSL, Docker, programming, software development, AI tools, automation, servers, self-hosting, networking, cybersecurity education, Windows/developer tools, hardware, and homelabs are all valid subjects.
+- **Early video approaches:** beginner tutorials, documented experiments, and interesting workflows are all intended. They are complementary, and the channel should not become tutorial-only.
+- **ATLAS is a planned Tech series, not launch content:** planning/design episodes may begin around February 2027; implementation and development-session videos may begin around mid-to-late March 2027. These are tentative estimates, not deadlines.
+- **ATLAS planning and development belong to one journey:** planning videos explain why; screenshot-timelapse development episodes show what changed.
+- **Timelapse method:** capture periodic screenshots, initially testing intervals around 5–10 seconds, assemble them into a timelapse, and add a voiceover explaining the work done in that session.
 - **Every ATLAS development episode gets narration:** the voiceover is the explanation layer, not an occasional extra.
+- **Optional gradual teasers:** brief 30–40 second glimpses may appear inside regular videos if the creator chooses. Dedicated ATLAS teaser Shorts are only a possible later idea after the channel has received some views; no threshold or schedule is set.
 - **Faceless does not mean personality-free:** narration, opinions, decisions, experiments, mistakes, and explanations provide the human perspective.
 - **Sustainability beats arbitrary frequency:** the workflow should fit real life, school, and project work. Do not invent a fixed upload schedule.
 

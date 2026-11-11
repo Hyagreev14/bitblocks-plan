@@ -1,11 +1,9 @@
 # Content Strategy
 
 ## Strategic model
-Start with one channel: **BitBlock**. Organise the content into two clear pillars—Tech and Gaming—using playlists, series names, and consistent packaging to help viewers understand what they are watching.
+BitBlock is one technology-focused channel. The editorial purpose is technology, software development, practical computing, and documented technical projects. Do not create separate Gaming and Tech channels; gaming-focused uploads are not part of the plan.
 
-Do not create BitBlock Tech and BitBlock Gaming as separate channels at launch. Separate channels create two publishing surfaces and divide early audience signals before there is evidence that the audiences need different destinations.
-
-## Pillar A: Tech
+## Technology scope
 Tech covers technology broadly, including:
 - programming and software development;
 - Linux, WSL, terminals, and command-line workflows;
@@ -15,32 +13,29 @@ Tech covers technology broadly, including:
 - Windows developer workflows and useful utilities;
 - hardware, homelabs, and practical computing;
 - cybersecurity concepts explained defensively and responsibly;
-- original projects such as ATLAS.
+- original projects such as ATLAS;
+- technical development projects such as creating, testing, or debugging a Minecraft mod.
 
-Tech videos should explain concepts and show useful outcomes. Avoid pretending that every tool is revolutionary or that every setup is universally best.
+Tech is not limited to Minecraft-related subjects. A Linux, AI, programming, or hardware video is fully at home on BitBlock without any game connection.
 
-## Pillar B: Gaming
-Gaming includes:
-- Minecraft gameplay, experiments, and discoveries;
-- Minecraft mods and mod development;
-- game mechanics, challenges, and creative builds;
-- other games when there is a genuine idea worth exploring;
-- technical experiments related to games, when they make sense.
+## Game footage boundary
+Game footage may appear when it directly helps demonstrate a technical subject. For example, a Minecraft mod-development video may briefly show the mod working in-game so viewers can understand the feature. The explanation, story, and viewer promise must remain about the mod, code, tooling, debugging, testing, or another technical topic.
 
-Minecraft may be a major recurring subject without becoming the entire identity of the channel.
+Do not make gameplay itself the subject. No Let's Plays, Survival or Hardcore episodes, gaming challenges, ordinary building/gameplay series, or uploads whose main appeal is watching someone play. Do not add gameplay footage merely to make a technical video more entertaining if it does not support the explanation.
 
-## The overlap
-Some videos naturally sit between the pillars: Minecraft server hosting, modding tools, game automation, performance investigations, or building a mod. Place each video according to its main viewer promise, not a rigid taxonomy.
+## Early content approach
+Before the dedicated Building ATLAS series begins, BitBlock can publish standalone technical videos using the creator's current setup and interests. Three complementary approaches are intended:
+1. **Beginner tutorials:** accessible explanations of tools, concepts, and workflows.
+2. **Documented experiments:** a question or idea is tested and the actual result is explained, including failure or limitations.
+3. **Interesting workflows:** useful or surprising ways to combine tools, settings, or scripts to solve a real problem.
+
+A video may combine approaches. The channel should not become tutorial-only. WSL and Docker Desktop are examples of current tools, not an exclusive list or a confirmed launch queue. The exact first uploads remain undecided.
+
+## Building ATLAS
+ATLAS is a planned recurring Tech development journey, not required launch content. It can include planning and design episodes as well as development-session timelapses. Keep plans, decisions, prototypes, implementation, and tested results clearly distinguished.
 
 ## Audience clarity
-Use titles, thumbnails, playlists, and opening explanations to make each video's subject clear. A viewer who arrives for Linux should not be misled into expecting Minecraft; a viewer who arrives for Minecraft should immediately understand a gaming upload.
+Titles, thumbnails, and openings should make each video's technical subject and viewer benefit clear. When game footage is used, make it obvious that it is a technical demonstration rather than a gameplay upload.
 
-## Channel split decision
-Revisit separate channels only after a meaningful body of uploads exists. Consider:
-1. Are the two audiences consistently different?
-2. Does one pillar have enough sustainable ideas and production capacity of its own?
-3. Would a split improve viewer expectations rather than simply add administration?
-4. Can each channel receive enough attention without harming quality or school-life balance?
-5. Is there evidence from returning viewers, comments, and performance—not just assumptions?
-
-Until then, one channel with strong organisation is the default.
+## Sustainability
+Choose topics based on genuine interest, available time, and whether there is a useful story to tell. Do not invent a fixed upload schedule or topic quota. School, project readiness, and production effort take priority over arbitrary frequency.

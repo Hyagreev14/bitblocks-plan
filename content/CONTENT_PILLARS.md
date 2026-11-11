@@ -1,16 +1,21 @@
 # Content Pillars
 
-## 1. Technology and development
-Broad practical technology: programming, Linux, WSL, Docker, AI, automation, servers, networking, hardware, software tools, and original projects.
+BitBlock is a tech-only channel. Its pillars describe the kinds of technical value a video provides; game footage is supporting material only when it demonstrates a technical subject.
 
-## 2. Gaming
-Minecraft and other games: experiments, mods, gameplay concepts, creative builds, mechanics, and technical curiosities.
+## 1. Practical technology
+Programming, Linux, WSL, Docker, AI, automation, servers, networking, hardware, software tools, and developer workflows.
 
-## 3. Building in public
-A cross-pillar approach that documents real projects over time. ATLAS is the first clearly defined example: planning, implementation, testing, setbacks, and milestones.
+## 2. Tutorials and explainers
+Beginner-friendly walkthroughs and concept-led explanations that help viewers understand a tool, solve a problem, or learn a useful workflow.
 
-## 4. Explainers and experiments
-Standalone videos that answer a specific question or test an idea. These can sit in either Tech or Gaming depending on the subject.
+## 3. Experiments and investigations
+A question, comparison, or technical curiosity is explored with a clear method. Results may be successful, surprising, inconclusive, or unsuccessful; report what actually happened.
 
-## Choosing a pillar
-Choose based on the main viewer promise. A Minecraft server setup is likely Tech if the focus is Linux and server administration; it is likely Gaming if the focus is the gameplay experience. The overlap is allowed.
+## 4. Interesting workflows
+Useful combinations of tools, scripts, settings, or repeatable steps. Explain the problem, demonstrate the outcome, and identify trade-offs.
+
+## 5. Building in public
+Document real technical projects over time. ATLAS is the first clearly defined example: planning, implementation, debugging, testing, setbacks, and milestones. Mod development can also fit when the focus is the engineering work.
+
+## Choosing the approach
+Choose based on the main viewer promise. A Minecraft mod video is appropriate when the focus is how the mod was designed, coded, configured, debugged, or tested. In-game footage may demonstrate the result, but the video must not turn into a gameplay story.

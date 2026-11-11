@@ -5,12 +5,17 @@ A recurring BitBlock Tech series documenting the development of ATLAS session by
 
 The series should show the evolution of the project: planning, design decisions, implementation, debugging, revisions, testing, and milestones. It is both a project diary and an understandable explanation of the work. It should remain a genuine record of development rather than a staged demonstration in which every session appears perfect.
 
+## Tentative timing
+The current working idea is to begin ATLAS planning and design videos around **February 2027**, then potentially begin hands-on implementation and development sessions around **mid-to-late March 2027**. These are estimates, not deadlines or public promises. They can move based on readiness, available time, and the actual state of ATLAS. Planning may begin before implementation; do not imply that coding has started merely because planning episodes exist.
+
+ATLAS is not intended to be BitBlock's launch content. The channel can first establish itself through standalone Tech videos using the creator's current interests and setup. The exact early upload list and order remain undecided.
+
 ## Two connected episode tracks
 
 ### 1. Planning and design
 These episodes explain why ATLAS is being shaped in a particular way. Suitable subjects include product vision, intended users, Core and Pro boundaries, user journeys, UI concepts, architecture, the ATLAS Action Protocol, tool discovery, consent, AI modes, repository permissions, security design, and trade-offs.
 
-Planning episodes can be made before implementation. They must clearly distinguish ideas, decisions, prototypes, and implemented features.
+Planning episodes can be made before implementation. They must clearly distinguish ideas, decisions, prototypes, and implemented features. See the planning-video guide.
 
 ### 2. Development sessions
 These episodes show how the plan becomes real. The creator does not plan to record continuous desktop video. The intended method is a Chronolapse-style tool that captures screenshots periodically—initially around every 5 or 10 seconds—then assembles the images into a timelapse.
@@ -52,6 +57,13 @@ Do not narrate every keystroke or mouse movement. Explain the work in coherent s
 8. Reviewing what works, what needs redesign, and what comes next.
 
 This is an idea sequence, not a fixed release plan. The actual project state should determine the order.
+
+## Gradual ATLAS teasers
+Before the dedicated series begins, the creator may choose to introduce small glimpses of ATLAS inside ordinary BitBlock Tech videos. An embedded teaser of roughly **30–40 seconds** was discussed as a possible guide, not a fixed duration. It can hint at the problem ATLAS aims to address or show one carefully selected visual, while keeping the regular video's topic as the main reason to watch.
+
+Teasers are optional and creator-controlled. Do not reveal details the creator wants to keep private, invent features, or imply that planned functionality is already implemented. The creator does not currently intend to make dedicated long-form explanation videos solely for this early promotional phase.
+
+Dedicated ATLAS teaser Shorts are a separate, optional later possibility. They may be reconsidered after BitBlock has received some views and the creator wants to proceed. No view count, subscriber threshold, number of Shorts, date, or cadence has been selected. Do not schedule a Shorts campaign or treat it as a launch requirement.
 
 ## Continuity
 Use a consistent series name such as Building ATLAS. Number episodes only if numbering helps viewers follow the journey. Each video should still make sense to a new viewer: provide a short recap of only the context needed, then focus on the current story.

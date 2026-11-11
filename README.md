@@ -14,6 +14,7 @@ The creator owns the channel and makes final decisions. This plan is detailed en
 4. **[Agent handoff](planning/AGENT_HANDOFF.md)** — instructions for a future assistant taking over the project.
 5. **[Current priorities](planning/NOW_NEXT_LATER.md)** — what is active, upcoming, and deliberately deferred.
 6. **[Production workflow](production/WORKFLOW.md)** — the flexible path from idea to published video.
+7. **[Video production folders](Videos/README.md)** — individual video plans, scripts, research, and publishing packages.
 
 ## Repository map
 
@@ -42,6 +43,10 @@ The creator owns the channel and makes final decisions. This plan is detailed en
 - [Editing](production/EDITING.md) — pacing, visuals, sound, and export review.
 - [Privacy and safety](production/PRIVACY_AND_SAFETY.md) — protecting credentials, personal information, and systems.
 - [Publishing](production/PUBLISHING.md) — titles, thumbnails, descriptions, settings, and final checks.
+
+### Videos/ — Individual video production workspaces
+- [Videos index](Videos/README.md) — numbered folders for each planned upload.
+- [Video 01: Linux on Windows with WSL 2](Videos/01%20-%20Linux%20on%20Windows%20with%20WSL%202/README.md) — first-video brief, script, shot list, editing plan, thumbnail, publishing package, fact-check, and recording checklist.
 
 ### planning/ — Keeping the project manageable
 - [Current priorities](planning/NOW_NEXT_LATER.md) — a flexible snapshot, not a deadline calendar.

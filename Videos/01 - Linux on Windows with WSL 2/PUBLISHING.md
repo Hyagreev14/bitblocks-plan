@@ -4,41 +4,48 @@
 
 ## Recommended title
 
-**Linux on Windows? What Is WSL 2 and Why Use It?**
+**How to Install Linux on Windows with WSL 2 (Beginner Guide)**
 
 Why this title:
-- The question creates curiosity without overpromising.
-- "Linux on Windows" communicates the topic immediately.
-- "WSL 2" is included for viewers who are searching for the technology.
-- It accurately describes an explainer and demonstration, not a complete installation tutorial.
+- It clearly communicates the practical outcome.
+- "Linux on Windows" is immediately understandable.
+- "WSL 2" identifies the technology viewers are searching for.
+- "Beginner Guide" sets an accessible expectation without promising to troubleshoot every possible setup.
 
 ## Alternate titles
 
-1. What Is WSL 2? Run Linux Alongside Windows
-2. Linux Without Leaving Windows? Meet WSL 2
-3. WSL 2 Explained: Linux Tools on Your Windows PC
+1. Linux on Windows: Install WSL 2 and Ubuntu
+2. WSL 2 Explained: How to Install Linux on Windows
+3. Want Linux on Windows? Start with WSL 2
 
 Use the recommended title unless the final video develops a different emphasis.
 
 ## Description draft
 
-Want to use Linux tools without leaving Windows? In this video, we explore Windows Subsystem for Linux (WSL 2), explain how it works, and take a practical look at an Ubuntu environment running alongside Windows.
+Want to use Linux without replacing Windows? In this video, we'll explain Windows Subsystem for Linux (WSL 2), walk through installing Ubuntu on a supported Windows PC, and explore a real Ubuntu terminal.
 
 We'll cover:
 - What Windows Subsystem for Linux is
 - What makes WSL 2 different
 - How its managed virtual machine and Linux kernel fit together
-- A quick tour of a real Ubuntu terminal
+- The standard **wsl --install** setup path
+- Ubuntu's first launch and Linux username/password setup
+- How to verify that your distribution is using WSL 2
 - A small hands-on Linux command-line demonstration
 - Where WSL is useful, and what its limitations are
 
-WSL 2 is a useful option for many development workflows, but it isn't the perfect solution for every Linux use case. This video focuses on understanding the technology and seeing it in action.
+The one-command installation path shown is for Windows 11 or Windows 10 version 2004 (Build 19041) or later. Older Windows versions may require Microsoft's manual installation steps.
+
+This video uses a clearly labelled fresh-PC installation walkthrough, followed by a demonstration from an already-configured WSL 2 environment.
 
 Subscribe to BitBlock for software, technology, experiments, and development projects.
 
 CODE. CREATE. EXPLORE.
 
 Official Microsoft documentation:
+https://learn.microsoft.com/windows/wsl/install
+https://learn.microsoft.com/windows/wsl/setup/environment
+https://learn.microsoft.com/windows/wsl/basic-commands
 https://learn.microsoft.com/windows/wsl/about
 https://learn.microsoft.com/windows/wsl/compare-versions/
 https://learn.microsoft.com/windows/wsl/faq
@@ -49,7 +56,9 @@ https://learn.microsoft.com/windows/wsl/faq
 
 Use relevant tags, not a long list of unrelated keywords:
 
-`WSL 2, WSL, Windows Subsystem for Linux, Linux on Windows, Ubuntu on Windows, Linux, Windows, WSL explained, WSL tutorial, developer tools, Linux for beginners, software development, BitBlock`
+~~~text
+WSL 2, WSL, Windows Subsystem for Linux, install WSL 2, install Linux on Windows, WSL install, Ubuntu on Windows, Linux, Windows, WSL explained, WSL tutorial, Linux for beginners, developer tools, software development, BitBlock
+~~~
 
 ## Playlist
 
@@ -61,19 +70,22 @@ Create the playlist when there is enough related content to make it useful. It d
 
 These are section labels, not final timestamps. Replace the times after the final edit has been exported and watched.
 
-- 00:00 Linux on Windows?
+- 00:00 Linux on Windows
 - 00:25 Why use Linux with Windows?
-- 01:15 What is WSL?
-- 02:30 How WSL 2 works
-- 03:30 Looking at my WSL setup
-- 05:00 A small Linux demo
-- 06:15 Why use WSL?
-- 07:00 Limitations to know
-- 08:00 Final thoughts
+- 01:05 What is WSL?
+- 02:10 How WSL 2 works
+- 03:00 Windows version requirements
+- 03:30 Install WSL 2 and Ubuntu
+- 04:45 First launch and setup
+- 05:45 Looking at my WSL setup
+- 06:45 A small Linux demo
+- 07:45 Why use WSL?
+- 08:30 Limitations to know
+- 09:20 Final thoughts
 
 ## Pinned comment draft
 
-What would you like to explore next on BitBlock — Linux basics, WSL workflows, Docker, programming, or another technology? Share the topic you're curious about.
+Have you tried WSL before, or are you setting it up for the first time? What would you like to explore next on BitBlock — Linux basics, WSL workflows, Docker, programming, or another technology?
 
 ## Upload checklist
 

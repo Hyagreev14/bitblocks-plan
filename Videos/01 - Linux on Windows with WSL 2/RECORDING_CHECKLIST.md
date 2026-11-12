@@ -12,10 +12,13 @@
 - [ ] Prepare a clean PowerShell window and Ubuntu terminal.
 - [ ] Increase terminal font size so commands are readable.
 - [ ] Check terminal prompt and paths for personal information.
-- [ ] Run every demonstration command once before recording.
+- [ ] Run every command used on the actual creator machine once before recording.
 - [ ] Verify the WSL distribution is actually using WSL 2.
 - [ ] Confirm the demo folder and text file are safe to create.
 - [ ] Prepare the WSL 2 architecture diagram or a placeholder.
+- [ ] Prepare the fresh-install walkthrough graphic: supported Windows versions, Administrator PowerShell, wsl --install, restart, first Ubuntu launch, Linux account, and version verification.
+- [ ] Verify the installation graphic against the linked Microsoft documentation.
+- [ ] Remember that the creator's machine already has WSL installed. Do not uninstall, reset, or reinstall it for footage.
 
 ## During recording
 
@@ -24,7 +27,9 @@
 - [ ] Do not rush commands to fit a target duration.
 - [ ] If a command fails, stop and investigate; do not hide a failure by pretending it worked.
 - [ ] Capture actual output, not recreated output presented as live.
+- [ ] Clearly label the installation sequence as a fresh-PC walkthrough, not a live install on the creator's machine.
 - [ ] Avoid showing personal paths, usernames, machine identifiers, or notifications.
+- [ ] Do not show or record any real password entry.
 - [ ] Record a clean take of the opening and closing.
 - [ ] Save source recordings in the intended project location.
 

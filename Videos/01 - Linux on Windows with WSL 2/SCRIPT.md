@@ -69,7 +69,23 @@ Your Linux distribution runs in that WSL environment, and Windows and Linux can 
 
 There are still differences between WSL and a full Linux installation, and WSL isn't the right tool for every situation. But for many development workflows, that integration is the main attraction.
 
-## 3:00 — Before you install
+## 3:00 — Virtual machine vs dual boot vs WSL 2
+
+[VISUAL: Show a three-column comparison: a traditional virtual machine, a dual-boot operating-system selection screen, and WSL 2 running alongside Windows. Keep the descriptions short and highlight convenience rather than declaring one method universally better.]
+
+**VOICEOVER:**
+
+There are a few different ways to run Linux on a Windows computer, so let's quickly compare three of them.
+
+First, a traditional virtual machine runs Linux inside a virtual computer. You get a separate environment that you can configure, but you also have to manage the virtual machine and allocate resources to it.
+
+Another option is dual booting. You install Windows and Linux separately, then choose which operating system to start when you turn on your computer. The trade-off is that switching between them means restarting.
+
+WSL 2 uses virtualization too, but Windows manages its lightweight virtual machine for you. You can use Linux tools alongside your normal Windows applications without manually starting and managing a traditional VM.
+
+Each option has its uses. For this tutorial, we're choosing WSL 2 because it makes a Linux development environment convenient to access from Windows.
+
+## 3:40 — Before you install
 
 [VISUAL: Simple compatibility card: “Windows 11” or “Windows 10 — version 2004 / build 19041 or later”. Show a small “Check with winver” label.]
 
@@ -81,7 +97,7 @@ Microsoft documents this one-command method for Windows 11 and Windows 10 versio
 
 If you're on an older Windows version, the process can be different, so use Microsoft's manual installation guide linked in the description rather than blindly following this exact path.
 
-## 3:30 — Installing WSL 2 and Ubuntu
+## 4:10 — Installing WSL 2 and Ubuntu
 
 [VISUAL: Clearly label this as “FRESH WINDOWS SETUP”. Show a clean PowerShell window graphic with the command typed. Do not present it as a live install on the creator's already-configured PC.]
 
@@ -107,7 +123,7 @@ Restart your computer if Windows asks you to.
 
 One note: WSL is already installed on my computer, so I'm not going to uninstall or reinstall my working setup just to capture this. These are the standard fresh-install steps, and I'll show you the real WSL setup on my machine in a moment.
 
-## 4:45 — First launch and verification
+## 5:25 — First launch and verification
 
 [VISUAL: Show a simple Ubuntu first-launch illustration or clean screen capture if available. Do not show or record any real password entry.]
 
@@ -141,7 +157,7 @@ to see the overall WSL status.
 
 If you want a different Linux distribution, you can list the available ones with **wsl --list --online** and install one by name. But Ubuntu is a straightforward starting point for this walkthrough.
 
-## 5:45 — A look at my WSL setup
+## 6:25 — A look at my WSL setup
 
 [VISUAL: Show the creator's actual PowerShell output. Run the commands one at a time. Blur or crop account names and unrelated paths.]
 
@@ -173,7 +189,7 @@ And I can check where I am in the Linux filesystem with:
 
 The important thing to notice is that I'm using a Linux environment from my Windows desktop. I don't have to switch away from Windows to use it.
 
-## 6:45 — A tiny practical example
+## 7:25 — A tiny practical example
 
 [VISUAL: Type commands slowly. Show the output clearly.]
 
@@ -212,7 +228,7 @@ I can even open the current folder in Windows File Explorer:
 
 This Windows-and-Linux integration is one of the things that makes WSL useful.
 
-## 7:45 — Why would you use it?
+## 8:25 — Why would you use it?
 
 [VISUAL: Show quick labelled examples: Bash terminal, code editor, project folder. Only show apps that are actually installed and relevant.]
 
@@ -228,7 +244,7 @@ And if you're following a tutorial that uses Bash or Linux commands, WSL can mak
 
 It's also useful when you want to keep your usual Windows apps while using Linux tools in the same workflow.
 
-## 8:30 — Limitations and things to know
+## 9:10 — Limitations and things to know
 
 [VISUAL: Return to a clean terminal and show a short list of balanced points.]
 
@@ -244,7 +260,7 @@ And if you need to learn how a traditional Linux server behaves, manage a full d
 
 The point isn't that WSL is always better. It's that WSL is a convenient option for using Linux alongside Windows.
 
-## 9:20 — Closing
+## 10:00 — Closing
 
 [VISUAL: Show the terminal beside the Windows desktop. End on the BitBlock logo and tagline.]
 

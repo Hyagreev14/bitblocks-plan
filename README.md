@@ -15,6 +15,8 @@ The creator owns the channel and makes final decisions. This plan is detailed en
 5. **[Current priorities](planning/NOW_NEXT_LATER.md)** — what is active, upcoming, and deliberately deferred.
 6. **[Production workflow](production/WORKFLOW.md)** — the flexible path from idea to published video.
 7. **[Video production folders](Videos/README.md)** — individual video plans, scripts, research, and publishing packages.
+8. **[Music catalogue](Music/MUSIC_CATALOG.md)** — original songs, their concepts, status, and visual-production direction.
+9. **[Creative projects](Creative%20Projects/)** — projects outside BitBlock's core tech-video plan, including Technoblade Legacy and AI Said WHAT?!.
 
 ## Repository map
 
@@ -48,12 +50,23 @@ The creator owns the channel and makes final decisions. This plan is detailed en
 - [Videos index](Videos/README.md) — numbered folders for each planned upload.
 - [Video 01: Linux on Windows with WSL 2](Videos/01%20-%20Linux%20on%20Windows%20with%20WSL%202/README.md) — first-video brief, script, shot list, editing plan, thumbnail, publishing package, fact-check, and recording checklist.
 
+### Music/ — Original music catalogue
+- [Music catalogue](Music/MUSIC_CATALOG.md) — Minecraft songs, Technoblade tribute songs, the 7-C: UNLEASHED class anthem, and the current visual-video direction.
+
+### Creative Projects/ — Creative work outside the core tech-video plan
+- [Technoblade Legacy](Creative%20Projects/Technoblade%20Legacy/README.md) — documentary and tribute-music project.
+- [AI Said WHAT?!](Creative%20Projects/AI%20Said%20WHAT%3F%21/README.md) — early-stage creative video concept.
+
 ### planning/ — Keeping the project manageable
 - [Current priorities](planning/NOW_NEXT_LATER.md) — a flexible snapshot, not a deadline calendar.
 - [Launch plan](planning/CHANNEL_LAUNCH.md) — a simple and achievable first phase.
 - [Episode planning](planning/EPISODE_PLANNING.md) — scoping individual videos.
 - [Review and iteration](planning/REVIEW_AND_ITERATION.md) — learning from uploads and improving deliberately.
 - [Agent handoff](planning/AGENT_HANDOFF.md) — continuity instructions for future AI agents.
+
+## Creative work beyond the core channel
+
+The repository also tracks the creator's music and selected creative projects. These are documented separately from BitBlock's core tech-video strategy; their presence here does not change the channel's tech-only editorial direction. The Music catalogue is the source of truth for song titles and status. The Creative Projects folders hold project-specific briefs and planning notes.
 
 ## Important decisions and direction
 

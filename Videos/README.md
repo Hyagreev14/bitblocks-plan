@@ -6,7 +6,7 @@ Each video gets its own numbered folder. Keep planning, scripts, research, captu
 
 ## Video folders
 
-- [01 — How to Install Linux on Windows with WSL 2](01%20-%20Linux%20on%20Windows%20with%20WSL%202/README.md) — first-video explainer, installation walkthrough, and practical demonstration package.
+- [01 — How to Install Linux on Windows with WSL 2](01%20-%20Linux%20on%20Windows%20with%20WSL%202/README.md) — first-video explainer, installation walkthrough, and practical demonstration package. **Current stage: editing; the creator reports only a little editing remains.**
 
 ## Folder conventions
 

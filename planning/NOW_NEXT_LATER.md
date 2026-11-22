@@ -2,15 +2,15 @@
 
 This page is a flexible snapshot. Update it when the creator changes focus. It is not a deadline calendar.
 
-## NOW — establish the channel foundation
-- Maintain BitBlock as a tech-only channel.
-- Keep the editorial boundary clear: no gameplay-focused uploads; game footage is permitted only for technical demonstrations.
-- Build a manageable first set of technical video ideas.
-- Consider a varied early mix of beginner tutorials, documented experiments, and interesting workflows.
-- Decide on a practical recording, voiceover, and editing workflow.
-- Test screenshot timelapse capture before relying on it for a full ATLAS session.
+## NOW — finish and publish Video 01
+- Finish the remaining edit for **Video 01: How to Install Linux on Windows with WSL 2**. The creator reports that only a little editing remains.
+- Target upload: evening of **22 or 23 November 2026**, depending on the final edit and review. This is the creator's current target, not a guaranteed deadline.
+- Watch the complete export, create/finalize the thumbnail, check the title and description, then upload and verify playback.
+- Maintain BitBlock as a tech-only channel; game footage remains limited to technical demonstrations.
+- Keep the next upload's detailed planning deferred until Video 01 is published.
 
-## NEXT — produce and learn
+## NEXT — continue after launch
+- Plan Video 02 after Video 01 is published; its topic and production plan are intentionally undecided for now.
 - Publish standalone technical videos using current interests and available tools.
 - Begin ATLAS planning/design episodes around February 2027 if the project and schedule are ready.
 - Potentially begin ATLAS implementation and development-session videos around mid-to-late March 2027, depending on readiness.

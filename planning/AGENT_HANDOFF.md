@@ -56,6 +56,14 @@ For ATLAS development videos, remember the defining workflow: periodic screensho
 
 For ATLAS planning videos, help turn genuine design reasoning into an understandable story with diagrams, notes, mockups, alternatives, and trade-offs. Do not present proposals as implemented functionality.
 
+## Music and creative projects
+- The repository also documents original music and selected creative projects in the top-level `Music/` and `Creative Projects/` folders.
+- These folders are separate from BitBlock's core tech-video editorial plan. Their presence does not change the channel's tech-only direction.
+- Use `Music/MUSIC_CATALOG.md` as the source of truth for song names, descriptions, and status.
+- `Creative Projects/Technoblade Legacy/` covers a documentary and related tribute music. Preserve the established direction: a 20–30 minute cinematic, emotional documentary narrated in the creator's own voice and built around authentic Technoblade footage, not acted or fictionalized scenes.
+- `Creative Projects/AI Said WHAT?!/` is an early concept only. Do not invent its premise, format, or production plan; develop those with the creator when requested.
+- Keep project status honest: a song being written does not mean it has a finished master or music video; a project folder does not mean a video is in production.
+
 ## Repository discipline
 - Preserve the clean folder structure.
 - Update the existing source-of-truth document instead of duplicating it.

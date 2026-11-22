@@ -4,9 +4,9 @@
 
 ## Status
 
-**Stage:** Planned — not recorded, edited, or published.
+**Stage:** Editing — nearly complete. The creator reports that only a little editing remains as of 22 November 2026. The current upload target is the evening of 22 or 23 November 2026, depending on the final edit and review. This is a target, not a confirmed publication date.
 
-This folder is the working production package for BitBlock's first video. All footage, test results, timings, and final claims must reflect what is actually captured.
+This folder is the working production package for BitBlock's first video. The video has been recorded and is in its final editing stage according to the creator. All footage, test results, timings, and final claims must reflect what is actually captured. Do not claim that it has been uploaded or published until confirmed.
 
 ## The decision
 
@@ -178,4 +178,4 @@ This video is ready to publish only when:
 - no credentials, private information, or unintended personal details appear;
 - final duration and chapter timestamps are updated from the finished export.
 
-**Current state: planning package updated to include installation. No recording or publication is claimed.**
+**Current state: recorded; final editing remains. Upload is targeted for the evening of 22 or 23 November 2026. Publication is not yet confirmed.**
